@@ -1,0 +1,23 @@
+{
+  "name": "screepsmod-history",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-International-Screeps-Bot/screepsmod-history.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-International-Screeps-Bot/screepsmod-history/issues"
+  },
+  "homepage": "https://github.com/The-International-Screeps-Bot/screepsmod-history#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "log-to-file": "^3.0.3"
+  }
+}
